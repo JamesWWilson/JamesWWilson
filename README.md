@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesWWilson
-- 👀 I’m interested in developing data science and engineering projects. Current Stack: Python + SparkR + SQL
-- 🌱 I’m currently learning Flask for web app development purposes. 
+- 👀 I’m developing data science and engineering projects for a range of clients on the cloud. Current Stack: Python + R + SQL
+- 🌱 I’m learning Flask for web app development purposes and computer vision for object detection.
 - 📫 Follow me on Twitter @jameswwilson_
 
 <!---
